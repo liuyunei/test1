@@ -4,6 +4,8 @@
 
 person::person()
 {
+	system.out.print();
+
 }
 
 
